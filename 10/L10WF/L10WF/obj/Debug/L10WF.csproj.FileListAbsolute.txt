@@ -1,0 +1,9 @@
+E:\Work\ПИС\Проекты\10\L10WF\L10WF\bin\Debug\L10WF.exe.config
+E:\Work\ПИС\Проекты\10\L10WF\L10WF\bin\Debug\L10WF.exe
+E:\Work\ПИС\Проекты\10\L10WF\L10WF\bin\Debug\L10WF.pdb
+E:\Work\ПИС\Проекты\10\L10WF\L10WF\obj\Debug\L10WF.csprojResolveAssemblyReference.cache
+E:\Work\ПИС\Проекты\10\L10WF\L10WF\obj\Debug\L10WF.Form1.resources
+E:\Work\ПИС\Проекты\10\L10WF\L10WF\obj\Debug\L10WF.Properties.Resources.resources
+E:\Work\ПИС\Проекты\10\L10WF\L10WF\obj\Debug\L10WF.csproj.GenerateResource.Cache
+E:\Work\ПИС\Проекты\10\L10WF\L10WF\obj\Debug\L10WF.exe
+E:\Work\ПИС\Проекты\10\L10WF\L10WF\obj\Debug\L10WF.pdb
