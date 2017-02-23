@@ -1,9 +1,0 @@
-E:\Work\ПИС\Проекты\3\L03WF\L03WF\bin\Debug\L03WF.exe.config
-E:\Work\ПИС\Проекты\3\L03WF\L03WF\bin\Debug\L03WF.exe
-E:\Work\ПИС\Проекты\3\L03WF\L03WF\bin\Debug\L03WF.pdb
-E:\Work\ПИС\Проекты\3\L03WF\L03WF\obj\Debug\L03WF.csprojResolveAssemblyReference.cache
-E:\Work\ПИС\Проекты\3\L03WF\L03WF\obj\Debug\L03WF.Form1.resources
-E:\Work\ПИС\Проекты\3\L03WF\L03WF\obj\Debug\L03WF.Properties.Resources.resources
-E:\Work\ПИС\Проекты\3\L03WF\L03WF\obj\Debug\L03WF.csproj.GenerateResource.Cache
-E:\Work\ПИС\Проекты\3\L03WF\L03WF\obj\Debug\L03WF.exe
-E:\Work\ПИС\Проекты\3\L03WF\L03WF\obj\Debug\L03WF.pdb
