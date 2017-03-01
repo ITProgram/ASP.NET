@@ -34,7 +34,7 @@
         <asp:TextBox ID="TextBoxGroup" runat="server" placeholder="Группа"></asp:TextBox>
 </p>
     <p>
-        <asp:Button ID="ButtonCancel" runat="server" Text="Отказаться" UseSubmitBehavior="false"/>
+        <asp:Button ID="ButtonCancel" runat="server" Text="Отказаться" UseSubmitBehavior="false" CausesValidation="false"/>
         <asp:Button ID="ButtonEnter" runat="server" Text="Ввод" UseSubmitBehavior="false"/>
         <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Введите фаилию" ControlToValidate="TextBoxFamily" Display="None"></asp:RequiredFieldValidator>
         <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Введите № группы" ControlToValidate="TextBoxGroup" Display="None"></asp:RequiredFieldValidator>
