@@ -14,9 +14,10 @@ namespace L14
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
-               name: "MyControlller",
-               url: "{controller}/{action}");
-
+                name: "Phone",
+                url: "{controller}/{action}/{id}",
+                defaults: new { controller = "Phone", action = "Browse", id = UrlParameter.Optional }
+            );
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",

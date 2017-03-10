@@ -12,10 +12,7 @@ namespace L14.Controllers
         {
             return View();
         }
-public ActionResult Index(int? a)
-        {
-            return View(a);
-        }
+
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
@@ -27,10 +24,6 @@ public ActionResult Index(int? a)
         {
             ViewBag.Message = "Your contact page.";
 
-            return View();
-        }
-        public ActionResult My()
-        {
             return View();
         }
     }
